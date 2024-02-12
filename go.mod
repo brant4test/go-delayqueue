@@ -1,4 +1,4 @@
-module github.com/raymondmars/go-delayqueue
+module github.com/brant4test/go-delayqueue
 
 go 1.16
 
